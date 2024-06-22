@@ -1,0 +1,2 @@
+Routers ile yaptığımız şey aslında bir midleware işlemidir. Her özel url için işlemleri özelleştirmemizi sağlar. 
+routers/index dosyası tüm routersları modüler bir şekilde içerirken routers altındaki diğer dosyalar ise özelleşmiştir. 
